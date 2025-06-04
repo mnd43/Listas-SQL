@@ -21,8 +21,7 @@ Os exercícios estão organizados em dois arquivos principais:
 - Filtragem de registros (`WHERE`, `LIMIT`).  
 
 ### 🔥 **Lista Intermediária/Avançada**  
-- Uso de `JOINs` para cruzamento de tabelas.  
-- Manipulação de dados e análise de padrões (`LAG()`, `ROW_NUMBER()`).  
+- Uso de `JOINs` para cruzamento de tabelas.   
 - Identificação de tendências e agrupamento avançado (`CASE`, `HAVING`).  
 - Consulta para encontrar maior sequência de presenças consecutivas.  
 - Análise de receitas por colaboradores (`SUM(percurso_em_km * preco)`).  
