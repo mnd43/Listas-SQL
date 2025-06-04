@@ -8,7 +8,8 @@ Este repositório contém exercícios práticos de SQL e vou usar para documenta
 Os exercícios estão organizados em dois arquivos principais:  
 
 📁 lista basica - Exercícios fundamentais (funções agregadoras, GROUP BY, ordenação de resultados). 
-📁 lista basicaintermediaria_avancada - Desafios mais complexos envolvendo JOINs, manipulação avançada de dados, e análise de padrões
+
+📁 lista basicaintermediaria_avancada - Desafios mais complexos envolvendo JOINs, manipulação avançada de dados, e análise de padrões.
 
 
 ## 🏆 Desafios Resolvidos  
